@@ -21,6 +21,7 @@ bool IsFound(int[] array, int find)
         if(array[i] == find) 
         {
             return true;
+            
         }
     }
     return false;
